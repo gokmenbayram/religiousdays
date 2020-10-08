@@ -1,0 +1,290 @@
+[
+    {
+        "gun": "Üç Aylar",
+        "hicri_tarih_ay": "Şubat",
+        "hicri_tarih_gun": "13 CMT",
+        "id": 1,
+        "miladi_tarih": "Recep 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Regaib Kandili",
+        "hicri_tarih_ay": "Şubat",
+        "hicri_tarih_gun": "18 PERŞ",
+        "id": 2,
+        "miladi_tarih": "Recep 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Miraç Kandili",
+        "hicri_tarih_ay": "Mart",
+        "hicri_tarih_gun": "10 ÇAR",
+        "id": 3,
+        "miladi_tarih": "Recep 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Berat Kandili",
+        "hicri_tarih_ay": "Mart",
+        "hicri_tarih_gun": "27 CMT",
+        "id": 4,
+        "miladi_tarih": "Şaban 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Ramazan",
+        "hicri_tarih_ay": "Nisan",
+        "hicri_tarih_gun": "13 SAL",
+        "id": 5,
+        "miladi_tarih": "Ramazan 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Kadir Gecesi",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "08 CMT",
+        "id": 6,
+        "miladi_tarih": "Ramazan 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Arefe(Ramazan)",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "12 ÇAR",
+        "id": 7,
+        "miladi_tarih": "Şevval 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Ramazan Bayramı",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "13 PER",
+        "id": 8,
+        "miladi_tarih": "Şevval 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Ramazan Bayramı",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "14 CUM",
+        "id": 9,
+        "miladi_tarih": "Şevval 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Ramazan Bayramı",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "15 CMT",
+        "id": 10,
+        "miladi_tarih": "Şevval 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Arefe(Kurban)",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "19 PZT",
+        "id": 11,
+        "miladi_tarih": "Zilhicce 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "20 SAL",
+        "id": 12,
+        "miladi_tarih": "Zilhicce 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "21 ÇAR",
+        "id": 13,
+        "miladi_tarih": "Zilhicce 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "22 PER",
+        "id": 14,
+        "miladi_tarih": "Zilhicce 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "23 CUM",
+        "id": 15,
+        "miladi_tarih": "Zilhicce 1442",
+        "yil": 2021
+    },
+    {
+        "gun": "Hicri Yılbaşı",
+        "hicri_tarih_ay": "Ağustos",
+        "hicri_tarih_gun": "09 PZT",
+        "id": 16,
+        "miladi_tarih": "Muharrem 1443",
+        "yil": 2021
+    },
+    {
+        "gun": "Aşure Günü",
+        "hicri_tarih_ay": "Ağustos",
+        "hicri_tarih_gun": "18 ÇAR",
+        "id": 17,
+        "miladi_tarih": "Muharrem 1443",
+        "yil": 2021
+    },
+    {
+        "gun": "Mevlid Kandili",
+        "hicri_tarih_ay": "Ekim",
+        "hicri_tarih_gun": "17 PAZ",
+        "id": 18,
+        "miladi_tarih": "Rebiülevvel 1443",
+        "yil": 2021
+    },
+    {
+        "gun": "Üç Aylar",
+        "hicri_tarih_ay": "Şubat",
+        "hicri_tarih_gun": "02 ÇAR",
+        "id": 19,
+        "miladi_tarih": "Recep 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Regaib Kandili",
+        "hicri_tarih_ay": "Şubat",
+        "hicri_tarih_gun": "03 PER",
+        "id": 20,
+        "miladi_tarih": "Recep 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Miraç Kandili",
+        "hicri_tarih_ay": "Şubat",
+        "hicri_tarih_gun": "27 PAZ",
+        "id": 21,
+        "miladi_tarih": "Recep 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Berat Kandili",
+        "hicri_tarih_ay": "Mart",
+        "hicri_tarih_gun": "17 PER",
+        "id": 22,
+        "miladi_tarih": "Şaban 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Ramazan",
+        "hicri_tarih_ay": "Nisan",
+        "hicri_tarih_gun": "02 CMT",
+        "id": 23,
+        "miladi_tarih": "Ramazan 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Kadir Gecesi",
+        "hicri_tarih_ay": "Nisan",
+        "hicri_tarih_gun": "27 ÇAR",
+        "id": 24,
+        "miladi_tarih": "Ramazan 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Arefe(Ramazan)",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "01 PAZ",
+        "id": 25,
+        "miladi_tarih": "Şevval 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Ramazan Bayramı",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "02 PZT",
+        "id": 26,
+        "miladi_tarih": "Şevval 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Ramazan Bayramı",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "03 SAL",
+        "id": 27,
+        "miladi_tarih": "Şevval 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Ramazan Bayramı",
+        "hicri_tarih_ay": "Mayıs",
+        "hicri_tarih_gun": "04 ÇAR",
+        "id": 28,
+        "miladi_tarih": "Şevval 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Arefe(Kurban)",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "08 CUM",
+        "id": 29,
+        "miladi_tarih": "Zilhicce 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "09 CMT",
+        "id": 30,
+        "miladi_tarih": "Zilhicce 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "10 PAZ",
+        "id": 31,
+        "miladi_tarih": "Zilhicce 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "11 PZT",
+        "id": 32,
+        "miladi_tarih": "Zilhicce 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Kurban Bayramı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "12 SAL",
+        "id": 33,
+        "miladi_tarih": "Zilhicce 1443",
+        "yil": 2022
+    },
+    {
+        "gun": "Hicri Yılbaşı",
+        "hicri_tarih_ay": "Temmuz",
+        "hicri_tarih_gun": "30 CMT",
+        "id": 34,
+        "miladi_tarih": "Muharrem 1444",
+        "yil": 2022
+    },
+    {
+        "gun": "Aşure Günü",
+        "hicri_tarih_ay": "Ağustos",
+        "hicri_tarih_gun": "08 PZT",
+        "id": 35,
+        "miladi_tarih": "Muharrem 1444",
+        "yil": 2022
+    },
+    {
+        "gun": "Mevlid Kandili",
+        "hicri_tarih_ay": "Ağustos",
+        "hicri_tarih_gun": "07 CUM",
+        "id": 36,
+        "miladi_tarih": "Rebiülevvel 1444",
+        "yil": 2022
+    }
+]
